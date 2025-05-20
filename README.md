@@ -84,4 +84,3 @@ Welcome to the Inventory and Sales Management System! This Java Swing-based appl
 
 ---
 
-This README should help you and your instructor navigate and test the application effectively.
