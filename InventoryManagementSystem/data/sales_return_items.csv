@@ -1,0 +1,8 @@
+returnID,itemSKU,itemName,returnedQuantity,unitPriceAtSale,condition,reason
+RTN-20250520171407-1746,0007,Rice,50,1.50,Resellable,
+RTN-20250520171407-1746,0004,Milk,50,2.50,Resellable,
+RTN-20250519124920-3C34,SKU0080,Cherry,80,3.50,Damaged,
+RTN-20250520170054-C2AF,0099,Sparkling Water,20,0.90,Resellable,
+RTN-20250519124250-D75E,SKU0080,Cherry,8,3.50,Damaged,
+RTN-20250519124904-A136,SKU0080,Cherry,80,3.50,Resellable,
+RTN-20250520171621-CED6,0010,Cheese,30,5.00,Resellable,

@@ -1,0 +1,4 @@
+orderID,itemSKU,itemName,orderedQuantity,receivedQuantity,purchasePrice
+PO-20250520170144-4DFC,0092,Lemonade,200,200,1.70
+PO-20250520171655-3148,0007,Rice,500,500,1.50
+PO-20250519123921-BD11,SKU0080,Cherry,12,12,3.50

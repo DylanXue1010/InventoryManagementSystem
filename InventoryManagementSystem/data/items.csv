@@ -1,0 +1,201 @@
+SKU,Name,Category,Quantity,Price,SupplierID,Status
+0130,Brussels Sprouts,Vegetable,80,1.60,SUP002,Active
+0010,Cheese,Dairy,80,5.00,SUP003,Active
+0131,Feta Cheese,Dairy,65,3.80,SUP003,Active
+0006,Chicken Breast,Meat & Poultry,50,8.00,SUP005,Active
+0127,Flavored Water,Beverages,150,1.20,SUP013,Inactive
+0007,Rice,Pantry,730,1.50,SUP006,Active
+0128,Veggie Straws,Snacks,140,2.50,SUP014,Active
+0004,Milk,Dairy,100,2.50,SUP003,Active
+0125,Webcam,Electronics,60,35.00,SUP011,Active
+0005,Bread,Bakery,80,3.00,SUP004,Active
+0126,Tape Dispenser,Office Supplies,90,5.00,SUP012,Active
+0002,Banana,Fruit,200,0.30,SUP001,Active
+0123,Mushroom,Vegetable,118,2.00,SUP002,Active
+0003,Carrot,Vegetable,300,0.20,SUP002,Active
+0124,Parmesan Cheese,Dairy,75,6.00,SUP003,Active
+0121,Dried Fruit Mix,Snacks,90,3.00,SUP014,Active
+0001,Apple,Fruit,150,0.50,SUP001,Active
+0122,Cranberry,Fruit,120,2.80,SUP007,Active
+0008,Orange,Fruit,180,0.60,SUP001,Active
+0129,Fig,Fruit,70,0.90,SUP001,Active
+0009,Broccoli,Vegetable,120,1.00,SUP002,Inactive
+0020,Strawberry,Fruit,130,2.50,SUP007,Active
+0141,Green Tea,Beverages,200,0.15,SUP009,Active
+0021,Potato,Vegetable,380,0.40,SUP002,Active
+0142,Pita Chips,Snacks,100,2.00,SUP014,Inactive
+0140,Permanent Markers,Office Supplies,150,0.80,SUP012,Active
+0017,Muffin,Bakery,75,1.50,SUP008,Active
+0138,Ricotta Cheese,Dairy,50,3.00,SUP003,Active
+0018,Salmon Fillet,Meat & Poultry,40,12.00,SUP005,Active
+0139,External SSD 1TB,Electronics,30,80.00,SUP011,Active
+0015,Tomato,Vegetable,220,0.80,SUP002,Active
+0136,Guava,Fruit,60,1.20,SUP007,Active
+0016,Yogurt,Dairy,110,1.00,SUP003,Active
+0137,Leek,Vegetable,90,1.00,SUP002,Active
+0013,Pasta,Pantry,300,1.20,SUP006,Active
+0134,Kombucha,Beverages,80,3.50,SUP013,Active
+0014,Grapes,Fruit,160,2.00,SUP007,Active
+0135,Seaweed Snacks,Snacks,110,1.80,SUP014,Active
+0011,Bagel,Bakery,60,1.20,SUP004,Active
+0132,Speaker (Bluetooth),Electronics,50,40.00,SUP015,Active
+0012,Ground Beef,Meat & Poultry,69,6.50,SUP005,Active
+0133,Hole Punch,Office Supplies,70,6.00,SUP016,Active
+0019,Cereal,Pantry,150,3.50,SUP009,Active
+0031,Sugar,Pantry,180,1.80,SUP006,Active
+0152,Onion Powder,Pantry,90,1.90,SUP006,Active
+0032,Mango,Fruit,90,1.50,SUP001,Active
+0153,Olive Oil,Pantry,60,8.50,SUP009,Active
+0150,Starfruit,Fruit,30,1.80,SUP007,Active
+0030,Turkey Breast,Meat & Poultry,45,9.00,SUP010,Active
+0151,Garlic Powder,Pantry,100,2.00,SUP006,Active
+0028,Cream,Dairy,70,2.00,SUP003,Active
+0149,Dark Chocolate,Snacks,120,2.50,SUP014,Active
+0029,Cake Slice,Bakery,30,4.00,SUP004,Active
+0026,Blueberry,Fruit,110,3.00,SUP007,Active
+0147,Index Cards,Office Supplies,400,0.02,SUP016,Active
+0027,Onion,Vegetable,350,0.30,SUP002,Active
+0148,Matcha Powder,Beverages,50,15.00,SUP009,Active
+0024,Pork Chop,Meat & Poultry,65,7.00,SUP010,Active
+0145,Provolone Cheese,Dairy,80,4.20,SUP003,Active
+0025,Flour,Pantry,200,2.00,SUP009,Active
+0146,Fitness Tracker,Electronics,40,50.00,SUP015,Active
+0022,Butter,Dairy,85,3.20,SUP003,Active
+0143,Passion Fruit,Fruit,40,1.50,SUP001,Active
+0023,Croissant,Bakery,45,1.80,SUP008,Inactive
+0144,Okra,Vegetable,70,1.40,SUP002,Active
+0042,Pen Pack,Office Supplies,300,2.00,SUP012,Active
+0163,Hot Sauce,Pantry,75,3.10,SUP009,Active
+0043,Soda Can,Beverages,500,0.75,SUP013,Active
+0164,Brown Sugar,Pantry,140,2.00,SUP006,Active
+0040,Soy Milk,Dairy,60,3.00,SUP003,Active
+0161,Ketchup,Pantry,130,1.80,SUP009,Active
+0041,USB Cable,Electronics,200,5.00,SUP011,Active
+0162,Mayonnaise,Pantry,85,2.50,SUP006,Active
+0160,Mustard,Pantry,110,1.30,SUP006,Active
+0039,Lettuce,Vegetable,150,0.90,SUP002,Active
+0037,Coffee Beans,Pantry,90,10.00,SUP009,Active
+0158,Vinegar,Pantry,100,1.50,SUP006,Inactive
+0038,Pineapple,Fruit,70,2.20,SUP001,Active
+0159,Soy Sauce,Pantry,90,2.20,SUP009,Active
+0035,Cookie Pack,Bakery,120,2.80,SUP008,Active
+0156,Peanut Butter,Pantry,120,2.80,SUP006,Active
+0036,Sausage,Meat & Poultry,80,5.50,SUP010,Inactive
+0157,Honey,Pantry,70,5.00,SUP009,Active
+0033,Spinach,Vegetable,100,1.20,SUP002,Active
+0154,Canned Tuna,Pantry,150,1.20,SUP006,Active
+0034,Ice Cream Tub,Dairy,50,4.50,SUP003,Active
+0155,Jam,Pantry,80,3.00,SUP009,Active
+0053,Bell Pepper,Vegetable,140,1.10,SUP002,Active
+0174,Cupcake,Bakery,60,2.00,SUP004,Active
+0054,Cottage Cheese,Dairy,65,2.80,SUP003,Active
+0175,Donut,Bakery,100,1.00,SUP008,Inactive
+0051,Crackers,Snacks,180,2.20,SUP014,Active
+0172,Sourdough Loaf,Bakery,40,4.50,SUP004,Active
+0052,Peach,Fruit,120,0.70,SUP001,Active
+0173,Brownie,Bakery,90,1.80,SUP008,Active
+0170,Oregano,Pantry,70,2.00,SUP006,Active
+0050,Juice Box,Beverages,350,1.00,SUP013,Inactive
+0171,English Muffin,Bakery,50,2.50,SUP004,Active
+0048,Computer Mouse,Electronics,150,12.00,SUP015,Active
+0169,Paprika,Pantry,80,2.20,SUP009,Active
+0049,Notebook,Office Supplies,400,1.00,SUP016,Active
+0046,Cucumber,Vegetable,180,0.60,SUP002,Active
+0167,Salt,Pantry,300,0.80,SUP009,Active
+0047,Almond Milk,Dairy,75,3.50,SUP003,Active
+0168,Black Pepper,Pantry,150,2.50,SUP006,Active
+0044,Potato Chips,Snacks,250,1.50,SUP014,Active
+0165,Baking Soda,Pantry,200,1.00,SUP009,Active
+0045,Watermelon,Fruit,30,4.00,SUP007,Active
+0166,Corn Starch,Pantry,100,1.20,SUP006,Active
+0064,Energy Drink,Beverages,200,2.00,SUP013,Active
+0185,Spatula Set,Kitchenware,50,15.00,SUP017,Active
+0065,Popcorn Bag,Snacks,150,1.20,SUP014,Inactive
+0186,Mixing Bowls,Kitchenware,40,20.00,SUP017,Active
+0062,Headphones,Electronics,120,30.00,SUP015,Active
+0183,Gouda Cheese,Dairy,60,6.20,SUP003,Active
+0063,Paper Clips,Office Supplies,500,0.80,SUP016,Active
+0184,Colander,Kitchenware,30,12.00,SUP017,Active
+0060,Celery,Vegetable,130,0.90,SUP002,Active
+0181,Swiss Cheese,Dairy,70,5.50,SUP003,Active
+0061,Greek Yogurt,Dairy,95,1.50,SUP003,Active
+0182,Brie Cheese,Dairy,40,7.00,SUP003,Active
+0180,Tilapia Fillet,Meat & Poultry,45,6.00,SUP005,Active
+0059,Kiwi,Fruit,90,0.80,SUP007,Active
+0057,Bottled Water,Beverages,600,0.50,SUP013,Active
+0178,Lamb Chops,Meat & Poultry,30,15.00,SUP005,Active
+0058,Mixed Nuts,Snacks,120,4.00,SUP014,Active
+0179,Shrimp,Meat & Poultry,50,10.00,SUP010,Active
+0055,Keyboard,Electronics,100,25.00,SUP011,Active
+0176,Chicken Thighs,Meat & Poultry,60,5.00,SUP005,Active
+0056,Stapler,Office Supplies,80,8.00,SUP012,Active
+0177,Bacon,Meat & Poultry,70,7.50,SUP010,Active
+0075,Sour Cream,Dairy,55,1.90,SUP003,Active
+0196,Toothpaste,Personal Care,100,2.50,SUP019,Active
+0076,Power Bank,Electronics,90,20.00,SUP015,Active
+0197,Soap Bar,Personal Care,150,1.00,SUP019,Active
+0073,Pear,Fruit,140,0.55,SUP007,Active
+0194,Shampoo,Personal Care,60,6.00,SUP019,Active
+0074,Asparagus,Vegetable,80,2.50,SUP002,Active
+0195,Conditioner,Personal Care,55,6.50,SUP019,Active
+0071,Sports Drink,Beverages,220,1.80,SUP013,Active
+0192,Trash Bags,Household,120,5.00,SUP018,Active
+0072,Chocolate Bar,Snacks,300,1.00,SUP014,Active
+0193,All-Purpose Cleaner,Household,90,4.00,SUP018,Active
+0190,Dish Soap,Household,80,3.00,SUP018,Active
+0070,Sticky Notes,Office Supplies,350,1.50,SUP012,Active
+0191,Laundry Detergent,Household,70,8.00,SUP018,Active
+0068,Whipped Cream,Dairy,40,2.30,SUP003,Active
+0189,Paper Towels,Household,100,1.50,SUP018,Active
+0069,Phone Charger,Electronics,180,10.00,SUP011,Active
+0066,Plum,Fruit,100,0.65,SUP001,Active
+0187,Cutting Board,Kitchenware,60,10.00,SUP017,Inactive
+0067,Zucchini,Vegetable,110,0.75,SUP002,Active
+0188,Chef's Knife,Kitchenware,25,30.00,SUP017,Active
+0086,Pretzels,Snacks,220,1.30,SUP014,Active
+0087,Raspberry,Fruit,80,4.00,SUP007,Active
+0084,Ballpoint Pens,Office Supplies,600,0.15,SUP012,Active
+0085,Coconut Water,Beverages,150,2.50,SUP013,Active
+0082,Cream Cheese,Dairy,70,2.10,SUP003,Active
+0083,HDMI Cable,Electronics,130,8.00,SUP011,Active
+0080,Cherry,Fruit,152,3.50,SUP001,Inactive
+0081,Cabbage,Vegetable,100,0.60,SUP002,Active
+0079,Granola Bar,Snacks,200,0.80,SUP014,Active
+0077,Highlighter Set,Office Supplies,150,3.00,SUP016,Active
+0198,Deodorant,Personal Care,70,3.50,SUP019,Inactive
+0078,Iced Tea Bottle,Beverages,280,1.60,SUP013,Active
+0199,Printer Paper,Office Supplies,20,25.00,SUP012,Active
+0090,Mouse Pad,Electronics,250,3.00,SUP015,Active
+0097,USB Drive 32GB,Electronics,160,15.00,SUP011,Active
+0098,Scissors,Office Supplies,120,2.50,SUP012,Active
+0095,Kale,Vegetable,70,1.50,SUP002,Active
+0096,Evaporated Milk,Dairy,60,1.20,SUP003,Active
+0093,Fruit Snacks,Snacks,280,1.10,SUP014,Inactive
+0094,Avocado,Fruit,110,1.80,SUP001,Active
+0091,Binder,Office Supplies,100,4.00,SUP016,Active
+0092,Lemonade,Beverages,390,1.70,SUP013,Active
+0088,Eggplant,Vegetable,90,1.30,SUP002,Active
+0089,Buttermilk,Dairy,45,2.00,SUP003,Active
+0099,Sparkling Water,Beverages,290,0.90,SUP013,Active
+0200,Envelopes,Office Supplies,300,0.08,SUP016,Active
+0105,Whiteboard,Office Supplies,30,30.00,SUP016,Active
+0106,Tea Bags,Beverages,380,0.10,SUP009,Active
+0103,Condensed Milk,Dairy,50,1.40,SUP003,Active
+0104,Monitor Stand,Electronics,70,22.00,SUP015,Active
+0101,Lime,Fruit,200,0.25,SUP001,Active
+0102,Sweet Potato,Vegetable,150,0.50,SUP002,Active
+0100,Beef Jerky,Snacks,100,5.00,SUP014,Active
+0109,Radish,Vegetable,180,0.40,SUP002,Inactive
+0107,Trail Mix,Snacks,130,3.50,SUP014,Active
+0108,Coconut,Fruit,40,2.00,SUP007,Active
+0120,Hot Chocolate Mix,Beverages,100,0.30,SUP009,Active
+0116,Artichoke,Vegetable,60,1.80,SUP002,Active
+0117,Mozzarella,Dairy,100,4.50,SUP003,Active
+0114,Rice Cakes,Snacks,160,1.00,SUP014,Active
+0115,Papaya,Fruit,50,2.50,SUP001,Active
+0112,Push Pins,Office Supplies,700,0.05,SUP012,Active
+0113,Coffee Pods,Beverages,250,0.50,SUP009,Active
+0110,Kefir,Dairy,35,3.20,SUP003,Active
+0111,Laptop Sleeve,Electronics,80,18.00,SUP011,Active
+0118,Ethernet Cable,Electronics,110,7.00,SUP015,Active
+0119,Manila Folders,Office Supplies,200,0.20,SUP016,Active
